@@ -1,1 +1,1 @@
-# Bollywood celebity prediction
+# CATA AND DOGS CLASSIFICATION
